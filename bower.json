@@ -1,0 +1,17 @@
+{
+  "name": "ngAutofocus",
+  "version": "0.0.1",
+  "authors": [
+    "Ian Murray <me@ianmurray.me>"
+  ],
+  "description": "Makes the autofocus attribute work with angular",
+  "main": "angular-autofocus.js",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
