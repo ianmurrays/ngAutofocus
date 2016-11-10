@@ -1,0 +1,19 @@
+{
+  "name": "angular-autofocus",
+  "version": "0.0.1",
+  "description": "Makes the autofocus attribute work with angular",
+  "main": "angular-autofocus.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ianmurrays/ngAutofocus.git"
+  },
+  "author": "Ian Murray <me@ianmurray.me>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ianmurrays/ngAutofocus/issues"
+  },
+  "homepage": "https://github.com/ianmurrays/ngAutofocus#readme"
+}
